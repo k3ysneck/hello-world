@@ -1,5 +1,8 @@
 # hello-world
-just learning what to do
-story.txt
-story-joe-edit.txt
-story-joe-reviewed.txt
+
+Hi Humans!
+
+someday I will know what i am doing.
+
+thank you
+
